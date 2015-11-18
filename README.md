@@ -2,6 +2,9 @@
 
 Open a file or url in the user's preferred application.
 
+**Deprecation Warning:**  This package is no longer being maintained.  Please see
+[opn](https://github.com/sindresorhus/opn) for an alternative.
+
 # Usage
 
 ```javascript
